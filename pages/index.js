@@ -21,13 +21,14 @@ import Intro from "../components/Intro"
             
         <Link href="./posts/project">
        <div className={styles.card}>
+           <a href="">
        <Image className={styles.image} src="/images/project.png"
-                width={150}
-                height={200}
+                width={160}
+                height={180}
                 alt="water"
         />
         <figcaption className={styles.figcaption}>Project</figcaption>
-         
+        </a>
        </div>
        
         </Link>
@@ -35,25 +36,29 @@ import Intro from "../components/Intro"
         {/* <p>     Hobbies page</p> */}
         <Link href="./posts/hobbies">
        <div className={styles.card}>
+           <a href="">
         <Image className={styles.image} src="/images/hobby.jpeg"
-                width={150}
-                height={200}
+                width={160}
+                height={180}
                 alt="water"
         />
         <figcaption className={styles.figcaption}>Hobbies</figcaption>
+        </a>
         </div>
         </Link>
         
         {/* <p>Experience</p> */}
         <Link href="./posts/experience">
         <div className={styles.card}>
-        <Image className={styles.image} src="/images/water.jpg"
-                width={150}
-                height={200}
+            <a href="">
+        <Image className={styles.image} src="/images/experience.jpg"
+                width={160}
+                height={180}
                 alt="water"
                 
         />
         <figcaption className={styles.figcaption}>Experience</figcaption>
+        </a>
         </div>
         </Link>
     </div>

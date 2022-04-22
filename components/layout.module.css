@@ -22,7 +22,9 @@
 
   }
   .intro{
-    max-width: 36rem;
+    max-width: 30rem;
+    margin: 0 auto;
+    padding: 20px;
   
   }
   .header {
@@ -88,6 +90,7 @@ border-radius: 25px;
  .footer{
    background-color: #1e2748;
    margin: 0 auto;
+   padding: 8px;
  }
  .footer p{
    color:beige;

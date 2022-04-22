@@ -14,7 +14,7 @@ export default function experience(){
         <div className={styles.experienceWrapper}>
         <h1 className={styles.pageTitle}> Experience</h1>
         <p>
-            I hold a bachelor's degree in Software Engineering.
+            I hold a bachelors degree in Software Engineering.
 
         </p>
         <p>

@@ -5,7 +5,7 @@ class Info extends Component {
     return (
       <main>
         <article>
-          <h1>Intro</h1>
+         
           <section id="about">
             <h2>About</h2>
             <div className={styles.intro}>

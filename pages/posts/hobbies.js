@@ -21,9 +21,9 @@ export default function hobbies(){
         /> */}
         
         <h2>Reading Books</h2>
-        <p>Reading books, I believe is a great way to to become a better you. It helps us to develop socially, connect with people while improving one's reading, writing ability.</p>
+        <p>Reading books, I believe is a great way to to become a better you. It helps us to develop socially, connect with people while improving one`&apos;`s reading, writing ability.</p>
         <p>
-        Though there isn't much in my list, its my 2022 resolution to add a lot more numbers in the list. Here are some of the books I have read:
+        Though there isn`&apos;`t much in my list, its my 2022 resolution to add a lot more numbers in the list. Here are some of the books I have read:
         </p>
         <h2> 1) Gone Girl</h2>
         <Image src="/images/gonegirl.jpeg"
@@ -45,7 +45,7 @@ Amy, a wife of Nick Dunne, disappears in their 5th wedding anniversary. Media fo
                 alt="Tempting fate"
         />
 <p>
-        This is a beautiful piece by a best-selling author Jane Green. The book describes about risks and rewards of "Having it all", when Gabby in her fourties and after about twenty years of marriage starts too feel void, and realises her youth slipping.
+        This is a beautiful piece by a best-selling author Jane Green. The book describes about risks and rewards of `&quot;`Having it all`&quot;`, when Gabby in her fourties and after about twenty years of marriage starts too feel void, and realises her youth slipping.
         </p>
 <h2>3) Girl Missing</h2>
 
@@ -54,11 +54,11 @@ Amy, a wife of Nick Dunne, disappears in their 5th wedding anniversary. Media fo
 <p>
 I recently read this book. I just fell in love with the string and firece character Katrina, Kat is. She is a Medical examiner, goes to any extent to find out the truth behind who is killing junkies. Everyday she deals with corpse and here is a small part of the conversation I liked: <br/>
 
-'Found out I couldn't stand being around sick people.' She shook her head and laughed 'Imagine that.'
+`&apos;`Found out I couldn`&apos;`t stand being around sick people. `&apos;` She shook her head and laughed `&apos;`Imagine that.`&apos;`
 
-'So you chose the morgue.'
+`&apos;`So you chose the morgue.`&apos;`
 
-'It's quiet. It's contained.'
+`&apos;`It`&apos;`s quiet. It`&apos;`s contained.`&apos;`
 </p>
 
 <h1>Travel</h1>
