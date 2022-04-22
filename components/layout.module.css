@@ -1,0 +1,112 @@
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+
+.body{
+  color:#f5f5f5;
+  padding: 0;
+  margin: 0;
+}
+.hobbiesWrapper p{
+  color: beige;
+}
+.hobbiesWrapper h1, .hobbiesWrapper h2, .hobbiesWrapper h4{
+  color: bisque;
+}
+.container {
+  background: radial-gradient(rgba(43,55,96,1), rgba(11,16,35,1));
+    /* max-width: 36rem; */
+  padding: 0 1rem;
+    margin: 0;
+
+  }
+  .intro{
+    max-width: 36rem;
+  
+  }
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .backToHome {
+    margin: 3rem 0 0;
+  }
+
+  .cards{
+    display: flex;
+   height: 100%;
+    width: 100%;
+    justify-content: space-around;
+  }
+
+.card{
+border-radius: 25px;
+
+}
+  .figcaption{
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+
+  
+.image{
+  border-radius: 25px;
+}
+ .image:hover{
+   height: 500px;
+   width: 500px;
+ }
+
+ .projectCard_odd, .projectCard_even{
+   display: flex;
+   margin:50px;
+   justify-content: space-around;
+ }
+ .projectCard_odd p, .projectCard_even p{
+   color:#f5f5f5;
+   margin: 1rem;
+ }
+ .projectCard_even{
+   
+   display: flex;
+   justify-content: space-around;
+ }
+
+ .projectCard_even p{
+   display: flex;
+   justify-content: flex-start;
+ }
+
+ .pageTitle{
+   color: bisque;
+ }
+ .footer{
+   background-color: #1e2748;
+   margin: 0 auto;
+ }
+ .footer p{
+   color:beige;
+   text-align: center;
+   margin: 0px auto auto 0px;
+ }
+ .icons{
+color:white;
+margin: 0 auto;
+font-size: 1.5rem;
+ }
+ .experienceWrapper{
+   max-width: 36rem;
+   display: flex;
+   flex-direction: column;
+   margin: 0 auto;
+
+ }
+ .experienceWrapper p{
+   color:aliceblue;
+   line-height: 1.5;
+ }

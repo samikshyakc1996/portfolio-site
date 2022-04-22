@@ -1,0 +1,27 @@
+
+.name{
+  color: bisque;
+}
+
+  
+ 
+  .borderCircle {
+    border-radius: 100px;
+  }
+  
+  .colorInherit {
+    color: inherit;
+  }
+  
+
+  
+  .list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+
+  .lightText {
+    color: #666;
+  }
