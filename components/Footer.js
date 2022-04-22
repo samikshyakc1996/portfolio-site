@@ -1,6 +1,6 @@
 import styles from "./layout.module.css"
 import {AiFillGithub, AiFillLinkedin} from "react-icons/ai"
-import Link from "next/Link"
+import Link from "next/link"
 function Footer() {
     return (
       <footer className={styles.footer}>
