@@ -107,7 +107,20 @@ export default function project(){
         {/* <Script src="/js/main.js"
         strategy="lazyOnLoad"
         /> */}
-        
+        <a href="">
+        <Link href="https://drive.google.com/drive/folders/15M64b6irpyjKJzIlhgDsXMW23LH7mDTQ?usp=sharing">
+        <div className={styles.projectCard_even}>
+        <p>This is project proposal for a Golden scoop company,which sells top ice-creams all over Canada.</p>
+
+        <Image src="/images/goldenscoop.png"
+                width={200}
+                height={200}
+                alt="Golden Scoop company"
+        />
+
+        </div>
+        </Link>
+        </a>
         </Layout>
        
         </>
